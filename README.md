@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atiyolog
+- 👋 Hi, I’m Atılım Atılgan @atiyolog
 - 👀 I’m interested in learning codes
 
 - I am currently a faculty member in the Department of Audiology at the Faculty of Health Sciences of Istanbul Medeniyet University.
